@@ -48,6 +48,21 @@ class _BottomNavigationState extends State<BottomNavigation> {
                         icon: Icons.camera_alt,
                         subtitle: 'Click to capture image from Camera',
                         title: 'Camera',
+                      ),
+                      MyListTile(
+                        icon: Icons.camera_alt,
+                        subtitle: 'Click to gjgvjvh image from ',
+                        title: 'Photo Library',
+                      ),
+                      MyListTile(
+                        icon: Icons.camera_alt,
+                        subtitle: 'Click to capture image from Camera',
+                        title: 'Camera',
+                      ),
+                      MyListTile(
+                        icon: Icons.camera_alt,
+                        subtitle: 'Click to capture image from Camera',
+                        title: 'Camera',
                       )
                     ],
                   ),
